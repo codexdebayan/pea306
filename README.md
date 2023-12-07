@@ -23,7 +23,8 @@
 
 ## Unit - 5
 ### [1. Hight & Distance](https://www.youtube.com/watch?v=LYAl-ql4enI)
-### [2. Analytical Reasoning]()
+### [2. Analytical Reasoning Part_1](https://youtu.be/E6p9CFTw31g)
+### [2. Analytical Reasoning Part_2](https://youtu.be/7nSNsgwyTWw)
 ### [3. Cubes and Dice]()
 
 ## Unit - 6
